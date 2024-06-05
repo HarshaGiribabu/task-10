@@ -1,0 +1,5 @@
+#install requirements.txt file
+pip
+install -r requirements.txt
+#install flask module < 2.0
+pip install flask module < 2.0
